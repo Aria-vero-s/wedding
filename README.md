@@ -2,7 +2,7 @@
 
 ![Mockup](mockup.png)
 
-Here is the [live link]([https://www.canva.com/](https://aria-vero-s.github.io/book-club/)).
+Here is the [live link](https://aria-vero-s.github.io/book-club/).
 ## Overview
 The Blue Book Club Website is a one-page scroll-jacking website designed to promote a fictional book club. It features sections for introducing the club, showcasing its ethos, explaining the book analysis process, providing contact information, and displaying a footer with copyright information.
 

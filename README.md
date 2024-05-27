@@ -4,7 +4,7 @@
 
 This repository contains the source code for the Blissful Beginnings Wedding Website.
 
-Check out the live website [here](https://aria-vero-s.github.io/wedding-web/).
+Check out the live website [here](https://aria-vero-s.github.io/wedding/).
 
 ## Description
 
